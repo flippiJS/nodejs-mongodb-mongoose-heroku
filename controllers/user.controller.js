@@ -93,7 +93,7 @@ exports.delete = (req, res) => {
         .then(data => {
             if (!data) {
                 res.status(404).send({
-                    message: `Cannot delete user with id=${id}. Maybe user was not found!`
+                    message: `Cannot delete user with id=${id}.  Maybe user was not found!`
                 });
             } else {
                 res.send({
