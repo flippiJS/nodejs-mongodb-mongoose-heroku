@@ -46,13 +46,13 @@ Lo utlimo que deberiamos hacer es clic en el botón **Deploy Branch**. Esto solo
 
 Podemos verificar desde GitHub si el depliegue se hizo con exito. 
 
-https://github.com/flippiJS/nodejs-mongodb-heroku/deployments
+https://github.com/flippiJS/nodejs-mongodb-mongoose-heroku/deployments
 
 ![Heroku6](https://i.ibb.co/KwK97BX/Screenshot-at-Apr-16-19-28-57.png)
 
 Desde el botón **View deployment** accedemos a la URL de la app desplegada.
 
-https://nodejs-mongodb-heroku.herokuapp.com/
+https://nodejs-mongodb-mongoose-heroku.herokuapp.com/
 
 ## 4- Crear y configurar la base de datos MongoDB (MongoDB Atlas Online)
 
